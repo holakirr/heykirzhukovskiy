@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @heykirzhukovskiy
+- 🌱 I’m currently learning JavaScript, React, Redux, NextJS, NodeJS
+- 📫 How to reach me zhuwork@yandex.ru / kmpetunin@gmail.com / by my nickname in social networks
